@@ -1,10 +1,10 @@
 ---
 ## 📋 準備
 
-1. [こちら](https://dl39k3l39to9h.cloudfront.net/pdfs/AnyCompany.pdf) を右クリックして リンク先の保存 を選択し、AnyCompany.pdf をダウンロードします。
+1. [こちら](https://dl39k3l39to9h.cloudfront.net/pdfs/AnyCompany.pdf) を右クリックして「名前をつけてリンク先を保存」を選択し、AnyCompany.pdf をダウンロードします。
     - これは架空の会社 AnyCompanyの休暇規定文書です。
 
-1. [こちら](https://dl39k3l39to9h.cloudfront.net/pdfs/AnyCompany_IR.pdf) をクリックして  リンク先の保存 を選択し、AnyCompany_IR.pdf をダウンロードします。
+1. [こちら](https://dl39k3l39to9h.cloudfront.net/pdfs/AnyCompany_IR.pdf) をクリックして「名前をつけてリンク先を保存」を選択し、AnyCompany_IR.pdf をダウンロードします。
     - これは架空の会社 AnyCompanyの決算説明資料です。
 
 1. [Skill Builder の Create an HR Agent with Amazon Quick (日本語)](https://skillbuilder.aws/learn/2BS4H48DT3/create-an-hr-agent-with-amazon-quick-/73Q1QNQ8HM) のリンクを右クリックして、新しいタブで開き、このラボを登録します。
