@@ -1,7 +1,7 @@
 ---
 ## 📋 準備
 
-1. [こちら](https://dl39k3l39to9h.cloudfront.net/pdfs/AnyCompany_HR.md) を右クリックして「名前をつけてリンク先を保存」を選択し、AnyCompany_HR.md をダウンロードします。
+1. [こちら](https://dl39k3l39to9h.cloudfront.net/AnyCompany_HR.md) を右クリックして「名前をつけてリンク先を保存」を選択し、AnyCompany_HR.md をダウンロードします。
     - これは架空の会社 AnyCompanyの休暇規定文書です。
 
 1. [こちら](https://dl39k3l39to9h.cloudfront.net/pdfs/AnyCompany_IR.pdf) をクリックして「名前をつけてリンク先を保存」を選択し、AnyCompany_IR.pdf をダウンロードします。
