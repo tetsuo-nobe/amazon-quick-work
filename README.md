@@ -7,6 +7,8 @@
 1. [こちら](https://dl39k3l39to9h.cloudfront.net/pdfs/AnyCompany_IR.pdf) をクリックして「名前をつけてリンク先を保存」を選択し、AnyCompany_IR.pdf をダウンロードします。
     - これは架空の会社 AnyCompany の決算説明資料です。
 
+1. Skill Builder にサインインします。
+
 1. [Skill Builder の Create an HR Agent with Amazon Quick (日本語)](https://skillbuilder.aws/learn/2BS4H48DT3/create-an-hr-agent-with-amazon-quick-/73Q1QNQ8HM) のリンクを右クリックして、新しいタブで開き、このラボを登録します。
 
 1. 「**開始**」をクリックします。
